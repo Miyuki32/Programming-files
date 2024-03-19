@@ -40,8 +40,3 @@ paid = float(input('Amount paid: '))
 balance = float(paid - total_pur)
 
 print('Your balance:', local_cur(balance))
-
-
-
-
-
